@@ -19,7 +19,7 @@ Desenvolvedor com sistemas próprios em produção no financeiro de uma empresa 
 
 ## Experiência
 
-Assistente Financeiro — responsável técnico por soluções internas04/2025 – atual
+### Assistente Financeiro — responsável técnico por soluções internas · 04/2025 – atual
 
 Compra Direta Gestão de Viagens Corporativas · São Paulo
 
@@ -30,18 +30,20 @@ Criei a frente de desenvolvimento interno do financeiro, que não existia: levan
 - **Dashboard financeiro (Python, Flask + Dash):** refatorei um app de arquivo único (~1.800 linhas) para arquitetura em camadas; autenticação com bcrypt e perfis de acesso; endpoint REST idempotente (`POST /api/sync/emails`) com limite de payload para sincronizar dados do Outlook; suporte a SQLite e PostgreSQL com script de migração. 162 testes (pytest, unidade e integração), ruff e mypy.
 - **Conciliação LATAM × Stur Web:** rotina que cruza os dados dos dois sistemas pelo número do bilhete, substituindo a conferência manual linha a linha.
 
-Experiências anteriores
+### Experiências anteriores
 
 - **Atendente** — St. Marche · 02/2025 – 04/2025  ·  **Banhista e Tosador** — Petshop Skina dos Bichos e Petshop Amicão · 2017 – 2025
 
 ## Projeto voluntário
 
-Protetores do ABC — site e painel de gestão para ONG de proteção animalem construção
+### Protetores do ABC — site e painel de gestão para protetores independentes de animais · em construção
 
-- Projeto voluntário feito de ponta a ponta por mim, da identidade visual e do design system ao backend. Aplicação em Next.js, React e TypeScript com PostgreSQL via Prisma. Escrita por Server Actions com validação em Zod e autorização por sessão e papel; login da equipe por Google com lista de acesso; dados enviados pelo público ficam em fila de triagem antes de entrar na base. 201 testes em Vitest, testes ponta a ponta com Playwright e documentação de requisitos, arquitetura e segurança.
+- Projeto voluntário feito de ponta a ponta por mim, da identidade visual e do design system ao backend. Aplicação em Next.js, React e TypeScript com PostgreSQL via Prisma. Escrita por Server Actions com validação em Zod e autorização por sessão e papel; login da equipe por Google com lista de acesso; dados enviados pelo público ficam em fila de triagem antes de entrar na base. 201 testes em Vitest, testes ponta a ponta com Playwright e documentação de requisitos, arquitetura, segurança e observabilidade.
 
-## Formação e idiomas
+## Formação
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas** — Uninove06/2023 – 12/2025
+**Tecnólogo em Análise e Desenvolvimento de Sistemas** — Uninove · 06/2023 – 12/2025
 
-**Idiomas:** Português (nativo) · Inglês (intermediário, leitura de documentação técnica)
+## Idiomas
+
+Português (nativo) · Inglês (intermediário, leitura de documentação técnica)
