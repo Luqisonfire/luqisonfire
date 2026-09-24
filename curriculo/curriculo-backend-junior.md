@@ -15,7 +15,7 @@ Desenvolvedor com sistemas próprios em produção no financeiro de uma empresa 
 - **Bancos de dados:** PostgreSQL, SQLite, migrações
 - **Integração e automação:** extensões Chrome (Manifest V3), Native Messaging, OCR (Tesseract), Playwright, pandas
 - **Qualidade:** testes automatizados (Vitest, pytest, Playwright), ESLint, Biome, ruff, mypy, ADRs, Git/GitHub (branches e pull requests)
-- **Frontend (complementar):** React, Dash, HTML/CSS
+- **Frontend e design (complementar):** React, Dash, HTML/CSS, identidade visual e design system
 
 ## Experiência
 
@@ -34,11 +34,11 @@ Experiências anteriores
 
 - **Atendente** — St. Marche · 02/2025 – 04/2025  ·  **Banhista e Tosador** — Petshop Skina dos Bichos e Petshop Amicão · 2017 – 2025
 
-## Projetos
+## Projeto voluntário
 
-Protetores do ABC — site e painel de gestão para ONG de proteção animal
+Protetores do ABC — site e painel de gestão para ONG de proteção animalem construção
 
-- Aplicação em Next.js, React e TypeScript com PostgreSQL via Prisma. Escrita por Server Actions com validação em Zod e autorização por sessão e papel; login da equipe por Google com lista de acesso; dados enviados pelo público ficam em fila de triagem antes de entrar na base. 201 testes em Vitest, testes ponta a ponta com Playwright e documentação de requisitos, arquitetura, segurança e observabilidade.
+- Projeto voluntário feito de ponta a ponta por mim, da identidade visual e do design system ao backend. Aplicação em Next.js, React e TypeScript com PostgreSQL via Prisma. Escrita por Server Actions com validação em Zod e autorização por sessão e papel; login da equipe por Google com lista de acesso; dados enviados pelo público ficam em fila de triagem antes de entrar na base. 201 testes em Vitest, testes ponta a ponta com Playwright e documentação de requisitos, arquitetura e segurança.
 
 ## Formação e idiomas
 
