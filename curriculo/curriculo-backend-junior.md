@@ -14,7 +14,7 @@ Desenvolvedor com experiência prática construindo e mantendo sistemas internos
 - **Linguagens:** JavaScript (Node.js), Python, SQL
 - **Backend:** APIs REST, arquitetura em camadas (dados, regras de negócio, apresentação), Flask, FastAPI
 - **Bancos de dados:** PostgreSQL, SQLite
-- **Integração e automação:** integração entre sistemas, extensões Chrome (Manifest V3), Playwright, pandas
+- **Integração e automação:** integração entre sistemas, extensões Chrome (Manifest V3), OCR, Playwright, pandas
 - **Qualidade e colaboração:** testes automatizados, Git/GitHub (branches e pull requests), documentação técnica
 - **Frontend (complementar):** React, Next.js, Dash, HTML/CSS
 
@@ -28,7 +28,7 @@ Criei a frente de desenvolvimento interno do financeiro, que não existia: levan
 - **Integração e conciliação LATAM × Stur Web:** rotina que cruza os dados dos dois sistemas pelo número do bilhete e substituiu a conferência manual linha a linha. [RESULTADO: ex. "de X horas para Y minutos por fechamento"]
 - **Extensão Chrome em JavaScript (Manifest V3):** automatiza a conferência de faturas aéreas, a integração de vendas e a emissão de relatórios. [RESULTADO]
 - **Dashboard financeiro (Python, Flask + Dash):** aplicação web com arquitetura em camadas para acompanhar as métricas da equipe. [RESULTADO: ex. "usado diariamente por N pessoas"]
-- **Automação de guias de DARF:** gera as guias de tributos federais sem preenchimento manual. [RESULTADO]
+- **ROG Kandir — automação de solicitações de DARF no portal NDC:** lê as DARFs por OCR e padroniza os diferentes formatos, cria as solicitações no portal NDC, captura os arquivos retornados e monta o e-mail de solicitação. Mantém controle de faturas e DARFs identificadas, divergências, solicitações já efetuadas e bilhetes já incluídos em outras solicitações, evitando duplicidade, e renomeia as pastas conforme o status de cada solicitação. [RESULTADO]
 - Versionamento com Git, testes automatizados nas regras de negócio críticas e documentação das soluções para o time.
 
 ### Experiências anteriores
