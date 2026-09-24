@@ -1,38 +1,40 @@
 # Lucas de Sousa Corrêa
-**Desenvolvedor Backend Júnior · Python**
+**Desenvolvedor Backend Júnior · JavaScript (Node.js) · Python**
 
-Santo André – SP · [SEU TELEFONE] · [SEU E-MAIL] · [linkedin.com/in/luqisonfire](https://www.linkedin.com/in/luqisonfire) · [github.com/luqisonfire](https://github.com/luqisonfire)
+Santo André – SP · Remoto · [SEU TELEFONE] · [SEU E-MAIL] · [linkedin.com/in/luqisonfire](https://www.linkedin.com/in/luqisonfire) · [github.com/luqisonfire](https://github.com/luqisonfire)
 
 ---
 
 ## Resumo
 
-Desenvolvedor Python com experiência prática construindo e mantendo sistemas internos em produção. Na empresa atual, criei do zero a frente de soluções internas do financeiro: aplicações web em Flask/Dash com arquitetura em camadas, rotinas de conciliação de dados, automações com Playwright e integrações entre sistemas. Trabalho com PostgreSQL e SQLite, versiono tudo com Git e escrevo testes automatizados para que o código seja mantido por outras pessoas. Formado em Análise e Desenvolvimento de Sistemas, busco minha primeira posição formal como Desenvolvedor Backend.
+Desenvolvedor com experiência prática construindo e mantendo sistemas internos que estão em uso no setor financeiro de uma empresa de viagens corporativas. Trabalho dentro da área de negócio: levanto requisitos com a operação, desenvolvo, testo, documento e acompanho o uso. Programo em JavaScript e Python. Já entreguei integrações entre sistemas, conciliação de dados financeiros, automações e aplicações web com arquitetura em camadas, usando PostgreSQL e SQLite. Uso Git com branches e escrevo testes automatizados para que outra pessoa consiga manter o código. Formado em Análise e Desenvolvimento de Sistemas, busco minha primeira posição formal como Desenvolvedor Backend, com interesse no mercado financeiro e em Open Finance.
 
 ## Competências técnicas
 
-- **Backend:** Python, Flask, FastAPI, Node.js, APIs REST, arquitetura em camadas
-- **Dados:** SQL, PostgreSQL, SQLite, pandas
-- **Automação e integração:** Playwright, extensões Chrome (Manifest V3), integração entre sistemas
-- **Qualidade e ferramentas:** testes automatizados, Git/GitHub
-- **Frontend (complementar):** JavaScript, React, Next.js, Dash, HTML/CSS
+- **Linguagens:** JavaScript (Node.js), Python, SQL
+- **Backend:** APIs REST, arquitetura em camadas (dados, regras de negócio, apresentação), Flask, FastAPI
+- **Bancos de dados:** PostgreSQL, SQLite
+- **Integração e automação:** integração entre sistemas, extensões Chrome (Manifest V3), Playwright, pandas
+- **Qualidade e colaboração:** testes automatizados, Git/GitHub (branches e pull requests), documentação técnica
+- **Frontend (complementar):** React, Next.js, Dash, HTML/CSS
 
 ## Experiência
 
 ### Assistente Financeiro — responsável técnico por soluções internas
 **Compra Direta Gestão de Viagens Corporativas** · São Paulo · 04/2025 – atual
 
-- Criei a frente de desenvolvimento interno do financeiro, que não existia: levanto a demanda com a operação, desenvolvo, coloco em uso e mantenho.
-- **Conciliação LATAM × Stur Web:** rotina em Python/pandas que cruza os dados por número de bilhete e substituiu a conferência manual linha a linha. [RESULTADO: ex. "de X horas para Y minutos por fechamento"]
-- **Dashboard financeiro (Flask + Dash):** aplicação web com arquitetura em camadas (dados, regras de negócio, apresentação) para acompanhar métricas da equipe. [RESULTADO: ex. "usado diariamente por N pessoas"]
-- **Automação de guias de DARF:** geração automatizada das guias, eliminando preenchimento manual. [RESULTADO]
-- **Extensão Chrome (Manifest V3):** automatiza conferência de faturas aéreas, integração de vendas e emissão de relatórios. [RESULTADO]
-- Uso de Git para versionamento e testes automatizados nas regras de negócio críticas.
+Criei a frente de desenvolvimento interno do financeiro, que não existia: levanto a demanda com o time, estimo, desenvolvo, coloco em produção e mantenho.
+
+- **Integração e conciliação LATAM × Stur Web:** rotina que cruza os dados dos dois sistemas pelo número do bilhete e substituiu a conferência manual linha a linha. [RESULTADO: ex. "de X horas para Y minutos por fechamento"]
+- **Extensão Chrome em JavaScript (Manifest V3):** automatiza a conferência de faturas aéreas, a integração de vendas e a emissão de relatórios. [RESULTADO]
+- **Dashboard financeiro (Python, Flask + Dash):** aplicação web com arquitetura em camadas para acompanhar as métricas da equipe. [RESULTADO: ex. "usado diariamente por N pessoas"]
+- **Automação de guias de DARF:** gera as guias de tributos federais sem preenchimento manual. [RESULTADO]
+- Versionamento com Git, testes automatizados nas regras de negócio críticas e documentação das soluções para o time.
 
 ### Experiências anteriores
 - **Atendente** — St. Marche · 02/2025 – 04/2025
 - **Banhista e Tosador** — Petshop Skina dos Bichos e Petshop Amicão · 2017 – 2025
-  Atendimento e comunicação com clientes, controle de planos mensais, vendas e redes sociais.
+  Atendimento ao cliente, controle de planos mensais, vendas e redes sociais.
 
 ## Formação
 
@@ -40,4 +42,4 @@ Desenvolvedor Python com experiência prática construindo e mantendo sistemas i
 
 ## Idiomas
 
-Português (nativo) · Inglês (intermediário — leitura de documentação técnica)
+Português (nativo) · Inglês (intermediário, leitura de documentação técnica)
